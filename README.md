@@ -112,17 +112,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![AIML 4 10](https://github.com/Rajeshanbu/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118924713/ade73f46-9569-4c6d-91ff-92714538b240)
 
 ### Classification report:
-
-### Prediction of LR:
-
-
 ![Screenshot 2024-03-18 111833](https://github.com/Rajeshanbu/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118924713/19851979-eed2-4743-9ad7-aea964ee9042)
-
-
+### Prediction of LR:
 ![Screenshot 2024-03-18 111935](https://github.com/Rajeshanbu/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118924713/dbc871f4-bbce-40d4-ba57-6cda4f3a677b)
-
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-
-
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
